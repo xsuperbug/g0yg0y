@@ -9,6 +9,7 @@ DATABASE SETUP
 
 Make sure your database credentials are correct within g0ygoy.php
 
+<code>$d = "old"; //username </code>
 
 <code>$u = "root"; //username </code>
 
