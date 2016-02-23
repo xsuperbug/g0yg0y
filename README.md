@@ -1,9 +1,9 @@
 
-About :
+ABOUT:
 
 G0yG0y is fuckin a vulnerable PHP/MySQL web application
 
-Database Setup : 
+DATABASE SETUP: 
 
 Make sure your database credentials are correct within g0ygoy.php
 
@@ -14,7 +14,7 @@ Make sure your database credentials are correct within g0ygoy.php
 
 Click here for reset the database -> http://localhost/g0yg0y/reset.php
 
-Default Credentials :
+DEFAULT CREDENTIALS:
 
 Default username = admin
 
