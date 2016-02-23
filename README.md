@@ -17,7 +17,8 @@ Make sure your database credentials are correct within g0ygoy.php
 
 Click here for reset the database -> http://localhost/g0yg0y/setup.php
 
-DEFAULTCREDENTIALS:
+DEFAULT CREDENTIALS:
+=========================================
 
 Default username = admin
 
