@@ -28,6 +28,7 @@ Default username = guest
 
 Default password = guest
 
+
 G0yg0y is designed to understand following security issues:
 
 + Command Injection
