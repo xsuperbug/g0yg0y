@@ -1,9 +1,11 @@
+ABOUT
+=========================================
 
-ABOUT:
 
-G0yG0y is fuckin a vulnerable PHP/MySQL web application
+G0yG0y is fuckin a vulnerable PHP/MySQL web application.
 
-DATABASE SETUP: 
+DATABASE SETUP
+=========================================
 
 Make sure your database credentials are correct within g0ygoy.php
 
@@ -24,7 +26,6 @@ Default username = guest
 
 Default password = guest
 
-
 G0yg0y is designed to understand following security issues:
 
 Command Injection
@@ -44,11 +45,11 @@ Unvalidated Redirect & Forwards
 Session Issues
 
 
-FEATURES:
--
+FEATURES
+=========================================
 
-CHANGELOG : 
--
+CHANGELOG
+=========================================
 
 
 
