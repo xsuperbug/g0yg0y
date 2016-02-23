@@ -6,7 +6,7 @@ include 'goygoy.php';
 	$database = new medoo([
 
 		'database_type' => 'mysql',
-		'database_name' => "old",
+		'database_name' => $d,
 		'server' => '127.0.0.1',
 		'username' => $u,
 		'password' => $p,
