@@ -9,10 +9,10 @@ DATABASE SETUP
 
 Make sure your database credentials are correct within g0ygoy.php
 
-<code><?php</code>
-<code>	$u = "root"; //username </code>
-<code>	$p = ""; //password</code>
-<code>?></code>
+
+<code>$u = "root"; //username </code>
+<code>$p = ""; //password</code>
+
 
 Click here for reset the database -> http://localhost/g0yg0y/setup.php
 
