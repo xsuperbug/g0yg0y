@@ -4,7 +4,7 @@ ABOUT
 G0yG0y is fuckin a vulnerable PHP/MySQL web application.
 
 ![Image of G0yG0y Home Page]
-(https://raw.githubusercontent.com/xsuperbug/g0yg0y/master/goygoy.png:large) 
+(https://raw.githubusercontent.com/xsuperbug/g0yg0y/master/goygoy.png) 
 
 DATABASE SETUP
 =========================================
